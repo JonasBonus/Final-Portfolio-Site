@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/JonasBonus/Final-Portfolio-Site/static/css/main.eb4bc9be.css",
+    "main.js": "/JonasBonus/Final-Portfolio-Site/static/js/main.3278ff16.js",
+    "static/media/elevator down.gif": "/JonasBonus/Final-Portfolio-Site/static/media/elevator down.966fbce445e31de950fb.gif",
+    "static/media/me.png": "/JonasBonus/Final-Portfolio-Site/static/media/me.276399209f01e6a5c77f.png",
+    "static/media/Maglev.jpg": "/JonasBonus/Final-Portfolio-Site/static/media/Maglev.73d6e94f20c7ffc6f8ea.jpg",
+    "static/media/bg-texture.png": "/JonasBonus/Final-Portfolio-Site/static/media/bg-texture.a553c34a34213059b6ad.png",
+    "static/media/coin rings 1.JPG": "/JonasBonus/Final-Portfolio-Site/static/media/coin rings 1.65e66de8e570cc1752ca.JPG",
+    "static/media/steering wheel.jpg": "/JonasBonus/Final-Portfolio-Site/static/media/steering wheel.b282ad21f0f6f8ade8eb.jpg",
+    "static/media/223 Exploded CAD.png": "/JonasBonus/Final-Portfolio-Site/static/media/223 Exploded CAD.627526bd64d67ffe5a3c.png",
+    "static/media/Jonas G - Resume (Web Copy).pdf": "/JonasBonus/Final-Portfolio-Site/static/media/Jonas G - Resume (Web Copy).eaf4fc9a5547d4f55af0.pdf",
+    "static/media/Excel Sim.png": "/JonasBonus/Final-Portfolio-Site/static/media/Excel Sim.d48a1ae3cae389065d66.png",
+    "static/media/me-about.jpg": "/JonasBonus/Final-Portfolio-Site/static/media/me-about.20f89f18a2898f5d4d31.jpg",
+    "index.html": "/JonasBonus/Final-Portfolio-Site/index.html",
+    "main.eb4bc9be.css.map": "/JonasBonus/Final-Portfolio-Site/static/css/main.eb4bc9be.css.map",
+    "main.3278ff16.js.map": "/JonasBonus/Final-Portfolio-Site/static/js/main.3278ff16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb4bc9be.css",
+    "static/js/main.3278ff16.js"
+  ]
+}
